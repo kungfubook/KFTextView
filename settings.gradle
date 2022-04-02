@@ -10,3 +10,4 @@ dependencyResolutionManagement {
 rootProject.name = "KFTextView"
 include ':app'
 include ':jplib'
+include ':kftextviewlibrary'
