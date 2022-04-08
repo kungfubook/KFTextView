@@ -37,7 +37,7 @@ afterEvaluate {
                 //建议和github仓库名称对应，否则对jitpack无效
                 artifactId = 'kungfubook'
                 //建议和release的tag相同，否则对jitpack无效
-                version = '0.0.4'
+                version = '0.0.5'
             }
         }
     }

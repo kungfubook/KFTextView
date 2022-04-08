@@ -7,7 +7,7 @@ import android.util.AttributeSet;
 
 import androidx.appcompat.widget.AppCompatTextView;
 
-import com.dingyizhe.kungfu.R;
+import com.dingyizhe.kungfu.ui.R;
 
 
 /****
